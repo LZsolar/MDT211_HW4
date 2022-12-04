@@ -58,7 +58,7 @@ class Tree<T>
             while(listboss.GetLength()>0){
                 Console.WriteLine(listboss.Pop());
             }
-            
+            isFind = true;
             return;
         }
 
